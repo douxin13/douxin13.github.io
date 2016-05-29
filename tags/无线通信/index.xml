@@ -11,17 +11,67 @@
     <atom:link href="http://douxin13.github.io/tags/%E6%97%A0%E7%BA%BF%E9%80%9A%E4%BF%A1/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>无线通信 文件综述</title>
+      <title>无线通信选题报告</title>
       <link>http://douxin13.github.io/post/%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%A4%A7%E5%AD%A6_%E7%BD%91%E7%BB%9C%E8%90%A5%E9%94%80_%E5%A4%A7%E7%B1%BB%E6%8B%9B%E7%94%9F/</link>
       <pubDate>Sat, 21 May 2016 00:23:50 +0800</pubDate>
       
       <guid>http://douxin13.github.io/post/%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%A4%A7%E5%AD%A6_%E7%BD%91%E7%BB%9C%E8%90%A5%E9%94%80_%E5%A4%A7%E7%B1%BB%E6%8B%9B%E7%94%9F/</guid>
-      <description>&lt;p&gt;此处是论文&lt;/p&gt;
+      <description>
+
+&lt;h2 id=&#34;doa-estimation-for-different-antenna-array-structures:fb01a2df35ea3e36db0979b4f08f3ad1&#34;&gt;DOA Estimation for Different Antenna Array Structures&lt;/h2&gt;
+
+&lt;h3 id=&#34;1-introduction:fb01a2df35ea3e36db0979b4f08f3ad1&#34;&gt;1.Introduction&lt;/h3&gt;
+
+&lt;p&gt;Smart antennas have gained great interest among researchers during recent years,
+and different antenna array structures have different characteristics, which are
+applied to different situations. At the same time, DOA(Direction of Arrival) is a very
+important parameter for smart antennas, and there are many algorithms to estimate
+it. In this paper, what I focus on is DOA estimation for different array structures based
+on MUSIC(Multiple Signal Classification) algorithm.&lt;/p&gt;
+
+&lt;h3 id=&#34;2-statement:fb01a2df35ea3e36db0979b4f08f3ad1&#34;&gt;2.Statement&lt;/h3&gt;
+
+&lt;p&gt;For simplify, let [1], [2]and [3] representative three papers which I refer to in my
+work, and the name of these papers will be listed in the end. Briefly, paper [1]
+introduces three different array structures, which are uniform linear arrays(ULA),
+uniform circular arrays(UCA), and uniform rectangular arrays(URA); Paper [2] applies
+MUSIC algorithm in the planar array antenna; Paper [3] analyzes the performance of
+MUSIC and ESPRIT DOA estimation for adaptive array smart antenna in mobile
+communication.&lt;/p&gt;
+
+&lt;h3 id=&#34;3-expectation:fb01a2df35ea3e36db0979b4f08f3ad1&#34;&gt;3.Expectation&lt;/h3&gt;
+
+&lt;p&gt;In my paper, firstly, I plan to make an introduction to smart antenna. Secondly, I
+will derive array steering vectors and signals that antenna array receive for different
+array structures, for example, ULA, UCA, URA in my own word, and make them more
+generalized. Thirdly, I will introduce the importance of DOA estimation and MUSIC
+algorithm. Next, verifying MUSIC algorithm for different situations is necessary and
+compare them from different perspectives. At last, I will make a short summary.&lt;/p&gt;
+
+&lt;h3 id=&#34;4-references:fb01a2df35ea3e36db0979b4f08f3ad1&#34;&gt;4.References&lt;/h3&gt;
+
+&lt;p&gt;[1]L. Jin, L. Li, and H. Wang, &amp;ldquo;Investigation of Different Types of Array Structures for
+Smart Antennas,&amp;rdquo; IEEE International conference on Microwave and Millimeter Wave
+Technology, vol. 3, pp. 1160 - 1163, 2008&lt;/p&gt;
+
+&lt;p&gt;[2]C. Sun, “The application of MUSIC algorithm in the planar array antenna,”2015 IEEE International Conference on Signal Processing, Communications and Computing
+(ICSPCC),pp. 1 - 4, 2015&lt;/p&gt;
+
+&lt;p&gt;[3]T.B. LAVATE, V.K. KOKATE, A. M. SAPKAL, “Performance Analysis of MUSIC and
+ESPRIT DOA Estimation algorithms for adaptive array smart antenna in mobile
+communication,&amp;rdquo; 2010 Second International Conference on Computer and Network
+Technology (ICCNT), pp. 308 - 311, 2010&lt;/p&gt;
 
 &lt;hr /&gt;
 
+&lt;ul&gt;
+&lt;li&gt;Name:Dou Xin&lt;/li&gt;
+&lt;li&gt;Student ID:13010199053&lt;/li&gt;
+&lt;li&gt;Email:1161327784@qq.com&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;blockquote&gt;
-&lt;p&gt;窦欣 13010199053&lt;/p&gt;
+&lt;p&gt;PDF版：&lt;a href=&#34;http://douxin13.github.io/douxin.pdf&#34;&gt;douxin.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
     </item>
